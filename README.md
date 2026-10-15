@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Big Data Analytics postgraduate at St Joseph's University, Bengaluru, and I work AI-first: I use AI tools every day to clean data, write and debug code, and turn hours of analysis into minutes. I build end-to-end projects, from ML pipelines and dashboards to full web apps, and ship them live on Vercel. My team won 2nd place for Outstanding Innovation at Project Showcase Day 2026 for Smart RFID Inventory Intelligence.
+I'm a Big Data Analytics postgraduate at St Joseph's University, Bengaluru, and I work AI-first: I use AI tools every day to clean data, write and debug code, and turn hours of analysis into minutes. I build end-to-end projects, from ML pipelines and dashboards to full web apps, and ship them live on Vercel.
 
 ## 🛠️ Tech Stack
 
