@@ -69,5 +69,6 @@ I'm a Big Data Analytics postgraduate at St Joseph's University, Bengaluru, and 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fbivinay)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-vinay-kumar-139938215)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E50914.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rvinaykumar-my-portfolio.vercel.app)
 
 </div>
