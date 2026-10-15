@@ -58,7 +58,7 @@ I'm a Big Data Analytics postgraduate at St Joseph's University, Bengaluru, and 
 
 ## 🎯 Current Focus
 
-- 🔭 Building AI-powered full-stack apps: a textile mill ERP, a university chatbot and an RFID inventory system
+- 🔭 Building my data science skills: statistics, machine learning and predictive modelling in Python and R
 - 📊 Turning raw data into dashboards and decisions with SQL, Power BI and Python
 - 🧪 Research on fiscal discipline and FDI across Indian states (CONFLUENCE-2026)
 - 💼 Open to Data Analyst and Business Analyst roles
