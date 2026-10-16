@@ -4,9 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+profile!;Data+Science+%26+AI%2FML+Enthusiast;MSc+Big+Data+Analytics+%40+SJU+Bengaluru;From+raw+data+to+clear+answers" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="assets/data-pipeline.svg" width="100%" alt="Animated data pipeline: records from CSV files, APIs, databases and logs flow through extract, transform and load into a dashboard" />
+</p>
+
 ## 🚀 About Me
 
 I'm a Big Data Analytics postgraduate at St Joseph's University, Bengaluru, and I work AI-first: I use AI tools every day to clean data, write and debug code, and turn hours of analysis into minutes. I build end-to-end projects, from ML pipelines and dashboards to full web apps, and ship them live on Vercel.
+
+<p align="center">
+  <img src="assets/live-dashboard.svg" width="100%" alt="Animated analytics dashboard: a live time series, a bar chart, a regression fit and a channel donut" />
+</p>
 
 ## 🛠️ Tech Stack
 
